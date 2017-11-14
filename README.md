@@ -1,7 +1,7 @@
 # Item Catalog
 ==============================================
 
-Hosted via Heroku [here] (https://fsnd-item-catalog-app.herokuapp.com/catalog/)
+Hosted via Heroku [here](https://fsnd-item-catalog-app.herokuapp.com/catalog/)
 
 ## Description
 
@@ -10,7 +10,7 @@ Hosted via Heroku [here] (https://fsnd-item-catalog-app.herokuapp.com/catalog/)
 
 > In this project we develop a RESTful web application using the Python framework Flask along with implementing third-party OAuth authentication. Learn when to properly use the various HTTP methods available to you and how these methods relate to CRUD (create, read, update and delete) operations.
 
-> This project was initially hosted on an Ubuntu instance via Amazon Lightsail, it is now hosted via Heroku, the instructions and repo for the deployed version can be found [here] (https://github.com/Christianq010/fsnd_Item-Catalog-heroku).
+> This project was initially hosted on an Ubuntu instance via Amazon Lightsail, it is now hosted via Heroku, the instructions and repo for the deployed version can be found [here}(https://github.com/Christianq010/fsnd_Item-Catalog-heroku).
 
 ### About Our Projects
 
