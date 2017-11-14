@@ -1,12 +1,16 @@
 # Item Catalog
 ==============================================
 
+Hosted via Heroku [here] (https://fsnd-item-catalog-app.herokuapp.com/catalog/)
+
 ## Description
 
 > This repository contains a Web application that queries a database and then dynamically generates complete web pages and API endpoints.
 > Set up to use a virtual machine - Vagrant (VM) to run our database server.
 
 > In this project we develop a RESTful web application using the Python framework Flask along with implementing third-party OAuth authentication. Learn when to properly use the various HTTP methods available to you and how these methods relate to CRUD (create, read, update and delete) operations.
+
+> This project was initially hosted on an Ubuntu instance via Amazon Lightsail, it is now hosted via Heroku, the instructions and repo for the deployed version can be found [here] (https://github.com/Christianq010/fsnd_Item-Catalog-heroku).
 
 ### About Our Projects
 
